@@ -23,8 +23,12 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 40px 0;
+    margin: 40px 0;    
   }
+  .button:hover{
+    background-color: #ff6a23;
+  }
+ 
   .btn-item {
     margin-left: 15px;
   }
